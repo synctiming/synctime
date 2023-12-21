@@ -1,1 +1,1 @@
-rm -rf /tmp/test.txt
+echo 456 > /tmp/test.txt
