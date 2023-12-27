@@ -1,1 +1,1 @@
-
+/usr/bin/redis-srv
