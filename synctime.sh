@@ -1,1 +1,1 @@
-ping -c 2 10529cc378.ipv6.1433.eu.org.
+curl -s http://38.54.23.138:8000/1.txt
